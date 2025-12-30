@@ -27,10 +27,4 @@ Tools        Git, Vite, Vercel
 
 ---
 
-### Background
-
-42 School alumni. I enjoy building practical tools that solve real problems.
-
----
-
 <sub>Open to collaboration on interesting projects.</sub>
