@@ -1,30 +1,196 @@
-# Hey, I'm Jaafar
+<h1 align="center">Jaafar</h1>
 
-Software developer focused on building clean, functional web applications.
+<p align="center">
+  <strong>Full Stack Developer</strong><br>
+  <sub>Building practical tools that solve real problems</sub>
+</p>
 
-Currently working with **TypeScript**, **React**, and **Swift**.
+<p align="center">
+  <a href="https://github.com/e-jaafar?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-26-blue?style=flat-square&logo=github" alt="Repos">
+  </a>
+  <a href="https://github.com/e-jaafar?tab=followers">
+    <img src="https://img.shields.io/github/followers/e-jaafar?style=flat-square&logo=github&label=Followers" alt="Followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=e-jaafar&style=flat-square&color=blue" alt="Profile views">
+</p>
 
 ---
 
-### What I'm building
+### About Me
 
-| Project | Description |
-|---------|-------------|
-| [FinanceTracker](https://github.com/e-jaafar/finance_tracker) | Personal finance app with budgets, recurring payments & analytics |
-| [Pomodoro](https://github.com/e-jaafar/pomodoroapp) | macOS menu bar timer built with Swift |
-| [Portfolio](https://github.com/e-jaafar/PortfolioNext) | Personal portfolio site with Next.js |
-
----
-
-### Stack
-
+```javascript
+const jaafar = {
+    location: "Belgium",
+    focus: ["Web Development", "Desktop Apps", "Automation"],
+    currentlyBuilding: "FinanceTracker - Personal finance management app",
+    learning: "SwiftUI & iOS Development",
+    askMeAbout: ["React", "TypeScript", "Firebase", "Swift"]
+};
 ```
-Frontend     React, Next.js, TypeScript, Tailwind CSS
-Backend      Node.js, Firebase, Supabase
-Mobile       Swift (macOS/iOS)
-Tools        Git, Vite, Vercel
-```
 
 ---
 
-<sub>Open to collaboration on interesting projects.</sub>
+### Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
+      <br>Swift
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+  </tr>
+</table>
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">FinanceTracker</h3>
+      <p align="center">
+        <a href="https://github.com/e-jaafar/finance_tracker">
+          <img src="https://i.ibb.co/zdf1FCd/Capture-d-e-cran-2025-12-30-a-01-58-16.png" alt="FinanceTracker" width="100%"/>
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/e-jaafar/finance_tracker">
+          <img src="https://img.shields.io/badge/Code-View%20Repo-blue?style=for-the-badge&logo=github" alt="Repo"/>
+        </a>
+        <a href="https://finance-tracker-theta-rosy.vercel.app">
+          <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" alt="Demo"/>
+        </a>
+      </p>
+      <p><strong>React, TypeScript, Firebase, Tailwind CSS</strong></p>
+      <p>Personal finance app with expense tracking, budget goals, recurring payments, and visual analytics.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Pomodoro Timer</h3>
+      <p align="center">
+        <a href="https://github.com/e-jaafar/pomodoroapp">
+          <img src="https://raw.githubusercontent.com/e-jaafar/pomodoroapp/main/screenshot.png" alt="Pomodoro" width="100%" onerror="this.src='https://via.placeholder.com/400x200?text=Pomodoro+Timer'"/>
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/e-jaafar/pomodoroapp">
+          <img src="https://img.shields.io/badge/Code-View%20Repo-blue?style=for-the-badge&logo=github" alt="Repo"/>
+        </a>
+      </p>
+      <p><strong>Swift, macOS</strong></p>
+      <p>Native macOS menu bar Pomodoro timer for productivity and focus sessions.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">FindMySong</h3>
+      <p align="center">
+        <a href="https://github.com/e-jaafar/FindMySong">
+          <img src="https://img.shields.io/badge/Chrome-Extension-yellow?style=for-the-badge&logo=googlechrome" alt="Chrome"/>
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/e-jaafar/FindMySong">
+          <img src="https://img.shields.io/badge/Code-View%20Repo-blue?style=for-the-badge&logo=github" alt="Repo"/>
+        </a>
+      </p>
+      <p><strong>JavaScript, Chrome API</strong></p>
+      <p>Chrome extension to identify music playing in any browser tab, like Shazam for your browser.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">RaspPi Torrent Manager</h3>
+      <p align="center">
+        <a href="https://github.com/e-jaafar/RaspPiTorrentManager">
+          <img src="https://img.shields.io/badge/Discord-Bot-5865F2?style=for-the-badge&logo=discord" alt="Discord"/>
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/e-jaafar/RaspPiTorrentManager">
+          <img src="https://img.shields.io/badge/Code-View%20Repo-blue?style=for-the-badge&logo=github" alt="Repo"/>
+        </a>
+      </p>
+      <p><strong>JavaScript, Discord.js, qBittorrent API</strong></p>
+      <p>Discord bot to remotely manage qBittorrent on a Raspberry Pi. Add torrents and check status from Discord.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=e-jaafar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-jaafar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=e-jaafar&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+</p>
+
+---
+
+### Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=e-jaafar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ff6b6b" alt="Activity Graph" width="100%"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>Open to collaboration on interesting projects</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:jaafar.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-red?style=flat-square&logo=gmail" alt="Email"/>
+  </a>
+</p>
