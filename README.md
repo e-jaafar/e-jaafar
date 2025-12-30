@@ -190,7 +190,7 @@ const jaafar = {
 </p>
 
 <p align="center">
-  <a href="mailto:jaafar.dev@gmail.com">
+  <a href="mailto:elmrabet.jaafar@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-red?style=flat-square&logo=gmail" alt="Email"/>
   </a>
 </p>
