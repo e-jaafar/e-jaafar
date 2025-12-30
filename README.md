@@ -164,27 +164,6 @@ const jaafar = {
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=e-jaafar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-jaafar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=e-jaafar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-### Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=e-jaafar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ff6b6b" alt="Activity Graph" width="100%"/>
-</p>
-
----
-
 <p align="center">
   <sub>Open to collaboration on interesting projects</sub>
 </p>
