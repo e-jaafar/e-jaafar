@@ -116,7 +116,7 @@ const jaafar = {
       <h3 align="center">Pomodoro Timer</h3>
       <p align="center">
         <a href="https://github.com/e-jaafar/pomodoroapp">
-          <img src="https://raw.githubusercontent.com/e-jaafar/pomodoroapp/main/screenshot.png" alt="Pomodoro" width="100%" onerror="this.src='https://via.placeholder.com/400x200?text=Pomodoro+Timer'"/>
+          <img src="https://i.ibb.co/XfVz4vrp/Capture-d-e-cran-2025-12-29-a-16-21-44.png" alt="Pomodoro" width="100%"/>
         </a>
       </p>
       <p align="center">
