@@ -23,7 +23,7 @@
 const jaafar = {
     location: "Belgium",
     focus: ["Web Development", "Desktop Apps", "Automation"],
-    currentlyBuilding: "FinanceTracker - Personal finance management app",
+    currentlyBuilding: "Hustle Finder - finding if local businesses need YOU",
     learning: "SwiftUI & iOS Development",
     askMeAbout: ["React", "TypeScript", "Firebase", "Swift"]
 };
