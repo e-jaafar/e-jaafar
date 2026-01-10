@@ -82,8 +82,8 @@ const jaafar = {
       <br>Vercel
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br>C
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
     </td>
   </tr>
 </table>
@@ -113,19 +113,19 @@ const jaafar = {
       <p>Personal finance app with expense tracking, budget goals, recurring payments, and visual analytics.</p>
     </td>
     <td width="50%">
-      <h3 align="center">Pomodoro Timer</h3>
+      <h3 align="center">Network Sentinel</h3>
       <p align="center">
-        <a href="https://github.com/e-jaafar/pomodoroapp">
-          <img src="https://i.ibb.co/XfVz4vrp/Capture-d-e-cran-2025-12-29-a-16-21-44.png" alt="Pomodoro" width="100%"/>
+        <a href="https://github.com/e-jaafar/network-sentinel">
+          <img src="https://i.ibb.co/FbbgLR8f/Capture-d-e-cran-2026-01-03-a-18-18-54.png" alt="Network Sentinel" width="100%"/>
         </a>
       </p>
       <p align="center">
-        <a href="https://github.com/e-jaafar/pomodoroapp">
+        <a href="https://github.com/e-jaafar/network-sentinel">
           <img src="https://img.shields.io/badge/Code-View%20Repo-blue?style=for-the-badge&logo=github" alt="Repo"/>
         </a>
       </p>
-      <p><strong>Swift, macOS</strong></p>
-      <p>Native macOS menu bar Pomodoro timer for productivity and focus sessions.</p>
+      <p><strong>Python, React, AI/ML, Raspberry Pi</strong></p>
+      <p>AI-powered network security monitoring dashboard. Real-time threat detection and traffic analysis for home networks.</p>
     </td>
   </tr>
   <tr>
